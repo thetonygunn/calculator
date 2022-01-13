@@ -1,6 +1,7 @@
 div {
     border: 2px solid gray;
     font-size: 0;
+    margin: 200px;
 }
 
 button {
@@ -21,4 +22,12 @@ button {
 p{
     text-align: right;
     font-size: 15px;
+}
+
+.heading {
+    text-align: center;
+}
+
+body {
+    background-color: lightgrey;
 }
